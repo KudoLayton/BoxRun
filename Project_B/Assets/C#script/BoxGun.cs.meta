@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf5dd21e06f001645826dd71e4dd426e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myBox: {instanceID: 0}
+  - black: {fileID: 100000, guid: 56ff1effd9851b14e97aa5d4422c8b25, type: 2}
+  - white: {fileID: 100000, guid: cb38d935460a142459b04ee2252bb4d8, type: 2}
+  - anti: {fileID: 100000, guid: 72872178596865f448a1817891055ac3, type: 2}
+  - shotselect: {instanceID: 0}
+  - whiteplane: {fileID: 100000, guid: 0a915ff5300126d42bb5aa181f59b35c, type: 2}
+  - blackplane: {fileID: 100000, guid: 446cfc12f7e1bac4095958d3cff14533, type: 2}
+  - antiplane: {fileID: 100000, guid: ac8d9a883c72e464595a5da2f7d6d8d5, type: 2}
+  - ShootingChance: {instanceID: 0}
+  - map_manager: {instanceID: 0}
+  - virblack: {fileID: 100000, guid: 5753dc87bc484c44fae1227b9008ca75, type: 2}
+  - virwhite: {fileID: 100000, guid: 4109924bdc44f884cb7d27f9c08d7589, type: 2}
+  - viranti: {fileID: 100000, guid: 92800f54810cdda4ebbe6970a1e5cd83, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
